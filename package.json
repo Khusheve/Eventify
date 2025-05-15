@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0",
+    "body-parser": "^2.2.0",
+    "bootstrap": "^5.3.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "react-router-dom": "^6.18.0"
+  },
+  "name": "event-management-system-main",
+  "description": "The objective of this project is to develop an Event Management System web application that specifically caters towards colleges and club events. The project aims to test our skills in Web Development and become proficient with the MERN techstack.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
